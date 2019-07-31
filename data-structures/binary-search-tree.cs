@@ -130,7 +130,7 @@ namespace BinarySearchTree
             Node<T> currentNode = Root;
             Node<T> nodeToDelete;
             Node<T> prev1 = null; // parent node of the nodeToDelete
-            int flg = 0;
+            int flg = 0; // use to determine left child or richt child
             while (currentNode != null)
             {
                 if (id == currentNode.Data.Id)
