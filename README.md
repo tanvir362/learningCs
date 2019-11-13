@@ -1,2 +1,4 @@
 # learningCs
-Here I will code some datastructures with C#
+
+data-structures:
+Here I will code some data structures with C#
