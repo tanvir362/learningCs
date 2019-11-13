@@ -1,0 +1,11 @@
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\bin\Debug\netcoreapp2.1\PracticeWithEFCore.deps.json
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\bin\Debug\netcoreapp2.1\PracticeWithEFCore.runtimeconfig.json
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\bin\Debug\netcoreapp2.1\PracticeWithEFCore.runtimeconfig.dev.json
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\bin\Debug\netcoreapp2.1\PracticeWithEFCore.dll
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\obj\Debug\netcoreapp2.1\PracticeWithEFCore.csprojAssemblyReference.cache
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\obj\Debug\netcoreapp2.1\PracticeWithEFCore.csproj.CoreCompileInputs.cache
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\obj\Debug\netcoreapp2.1\PracticeWithEFCore.AssemblyInfoInputs.cache
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\obj\Debug\netcoreapp2.1\PracticeWithEFCore.AssemblyInfo.cs
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\bin\Debug\netcoreapp2.1\PracticeWithEFCore.pdb
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\obj\Debug\netcoreapp2.1\PracticeWithEFCore.dll
+F:\Practice\MVCCore\PracticeWithEFCore\PracticeWithEFCore\obj\Debug\netcoreapp2.1\PracticeWithEFCore.pdb

@@ -1,0 +1,7 @@
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\bin\Debug\PracticeWithDatabase.exe.config
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\bin\Debug\PracticeWithDatabase.exe
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\bin\Debug\PracticeWithDatabase.pdb
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\obj\Debug\PracticeWithDatabase.csprojAssemblyReference.cache
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\obj\Debug\PracticeWithDatabase.csproj.CoreCompileInputs.cache
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\obj\Debug\PracticeWithDatabase.exe
+C:\Users\TANVIR\source\repos\PracticeWithDatabase\PracticeWithDatabase\obj\Debug\PracticeWithDatabase.pdb
