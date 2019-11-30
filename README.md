@@ -1,4 +1,7 @@
 # learningCs
+Folder abd file contents:
 
 data-structures:
-Here I will code some data structures with C#
+Some data structures implemented with C#
+
+
